@@ -86,3 +86,4 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | Hackathon                                                | Location        | Date (2016)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [Venture](http://venture.leangap.org/) | Cambridge, MA | 2.6 - 2.7 |
+| [UofTHacks III](https://uofthacks.com/) | Toronto, Canada | 1.22 - 1.24 |
